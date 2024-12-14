@@ -1,8 +1,6 @@
 # draft_project
 Looking for collabrations ....
 
-Here is an improved version of the README file that invites collaborations while highlighting the project's purpose and functionality:
-
 ---
 
 # **Collaborative Project Management Platform**
