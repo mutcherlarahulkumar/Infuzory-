@@ -56,18 +56,14 @@ We’re looking for **contributors and collaborators** to help enhance this proj
 
 ## **Getting Started**
 
-Let's first Discuss the whole Project and if our ideology matches lets get connected....
+Let's first Discuss the whole Project and if our ideology matches lets get connected and make necessary changes ....
 
 ## **Tech Stack**
 
-- **Frontend**: React.js  
-- **Backend**: Node.js  
+- **Frontend**: TBD 
+- **Backend**: TBD  
 - **Database**: TBD 
 - **Real-time Communication**: Socket.IO  
-- **Version Control**: GitHub  
-
----
-
 
 ---
 
