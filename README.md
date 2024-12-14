@@ -1,5 +1,5 @@
 # draft_project
-Looking for collabrations ....
+Looking for any collabrations ....
 
 ---
 
@@ -7,11 +7,8 @@ Looking for collabrations ....
 
 ## **Table of Contents**
 - [Overview](#overview)  
-- [Core Features](#core-features)  
-- [How to Contribute](#how-to-contribute)  
-- [Getting Started](#getting-started)  
-- [Tech Stack](#tech-stack)  
-- [License](#license)  
+- [Core Features](#core-features)   
+- [Getting Started](#getting-started)
 - [Contact](#contact)  
 
 ---
@@ -81,14 +78,13 @@ Always open to feedback, suggestions, and contributions. If you have any questio
 📧 **Email**: mutcherlarahulkumar@gmail.com  
 🔗 **GitHub**: [Your GitHub Profile](https://github.com/mutcherlarahulkumar)  
 
-We can’t wait to see what we’ll build and improve! Let’s collaborate and create something amazing together. 🚀  
+I can’t wait to see what we’ll build and improve! Let’s collaborate and create something amazing together. 🚀  
 
 ---
 
 ### **Let’s Build Together!**  
-If you're passionate about building tools that help developers thrive, this project is for you. We believe in open collaboration and innovation—your ideas, code, and feedback are what make this platform better every day.  
+If you're passionate about building tools that help developers thrive, this project is for us. We believe in open collaboration and innovation—your ideas, code, and feedback are what make this platform better every day.  
 
-**Start collaborating today! Fork the repository and let’s make it happen. 💻✨**  
 
 --- 
 
