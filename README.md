@@ -1,5 +1,5 @@
 
-## Looking for any collabrations ....
+##  any collabrations?? ....
 
 ## Project Document Draft V.0.1
 ![image](https://github.com/user-attachments/assets/f86de9b9-55da-4a85-87c1-fde8c0f474ad)
@@ -76,7 +76,7 @@ Let's first Discuss the whole Project and if our ideology matches lets get conne
 Always open to feedback, suggestions, and contributions. If you have any questions or ideas, feel free to contact us:  
 
 📧 **Email**: mutcherlarahulkumar@gmail.com  
-🔗 **GitHub**: [Your GitHub Profile](https://github.com/mutcherlarahulkumar)  
+🔗 **GitHub**: [My GitHub Profile](https://github.com/mutcherlarahulkumar)  
 
 I can’t wait to see what we’ll build and improve! Let’s collaborate and create something amazing together. 🚀  
 
